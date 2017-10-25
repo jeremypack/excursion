@@ -1,5 +1,6 @@
 html {
 	text-align: center;
+	background-color: black;
 }
 
 h1 {
@@ -9,7 +10,11 @@ h1 {
 	color: white;
 }
 
-h3 {
+h2 {
+	color: white;
+}
+
+a {
 	color: Aquamarine;
 	font-size: 16px;
 }
